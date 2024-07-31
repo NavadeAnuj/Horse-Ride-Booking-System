@@ -1,0 +1,12 @@
+/* src/index.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+body {
+  background-image: url("../src/assets/photo-1594768816441-1dd241ffaa67.avif"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
